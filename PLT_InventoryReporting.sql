@@ -1,3 +1,7 @@
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+----- AGGREGATING INVENTORY BY WAREHOUSE -----
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
 ----- BEGIN WEIGHTED AVG QTY SOLD (6-MONTH) CALCULATION -----
 
 -- Total business days (6-months)

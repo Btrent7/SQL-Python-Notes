@@ -26,8 +26,8 @@ workbook = op.load_workbook(temp_file)
 #Step 1: Server Connection
 connection = pyodbc.connect(
     'DRIVER={SQL Server};'
-    'SERVER=Server-DevDB01.Rasconet.Local;'
-    'DATABASE=SYSCOMP;'
+    'SERVER=Server-Name.Local;'
+    'DATABASE=dbo;'
     'Trusted_Connection=yes;'
 )
 
